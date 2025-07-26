@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = 'flask-app'
-        DOCKER_USER = 'your-dockerhub-username'
+        DOCKER_USER = 'kumarkoppisetti'
     }
 
     stages {
