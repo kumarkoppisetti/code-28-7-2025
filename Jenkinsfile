@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/<your-user-or-org>/flask-docker-app.git'
+                git 'https://github.com/kumarkoppisetti/kumar-p.git'
             }
         }
 
