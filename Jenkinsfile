@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/kumarkoppisetti/kumar-p.git'
+                git 'https://github.com/kumarkoppisetti/code-28-7-2025.git'
             }
         }
 
